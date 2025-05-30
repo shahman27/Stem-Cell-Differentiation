@@ -1,1 +1,5 @@
 node_modules/
+ref/
+data/raw/
+data/test/pbmc_1k_v3/*fastq.gz
+results/
